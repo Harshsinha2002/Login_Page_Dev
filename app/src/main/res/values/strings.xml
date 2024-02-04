@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Login_Page_Dev</string>
+    <string name="email_address">EMAIL ADDRESS</string>
+    <string name="welcome"><u>WELCOME</u></string>
+    <string name="login_txt">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="login_img">TODO</string>
+    <string name="login">TODO</string>
+    <string name="do_not_have_an_account">Do not have an Account?</string>
+    <string name="or_login_with">OR LOGIN WITH</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="password">PASSWORD</string>
+    <string name="new_user"><u>NEW USER</u></string>
+    <string name="retrieve_account"><u>RETRIEVE ACCOUNT</u></string>
+
+
+    <string name="facebook_app_id">721260616739755</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+    <string name="forgot_password">FORGOT PASSWORD</string>
+    <string name="sign_up">SIGN_UP</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="submit">SUBMIT</string>
+
+
+</resources>
